@@ -210,7 +210,7 @@ function Toggle() {
 ```
 
 ## Conclusion
-
+nm
 Thinking like a React developer involves making a lot of decisions about how to
 structure your components, particularly when it comes to **props** and
 **state**. Now that you've seen the process and some common patterns for working
